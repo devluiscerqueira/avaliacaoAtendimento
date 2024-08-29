@@ -1,4 +1,4 @@
-avaliacaoAtendimento
+
 Projeto para as disciplinas RAD e Banco de Dados do curso de Análise e Desenvolvimento de Sistema na Estácio. Consiste em um sistema simples de avaliação de atendimento. Foi desenvolvido com as seguintes tecnologias: php/Laravel, SQL, HTML/CSS.
 As três telas principais do sistema são evidenciadas nas imagens abaixo. A primeira imagem mostra o formulário principal, a partir do qual um cliente pode escolher o nome de quem o atendeu, atribuir uma nota e deixar uma opinião. A segunda tela evidencia o retorno para a ação de enviar a avaliação, uma tela de agradecimento. A terceira tela evidencia o ambiente em que o gestor poderá visualizar o rancking de notas de sua equipe, que está ordenado de maior nota para menor nota, sendo a nota composta pela média entre todas as notas recebidas por determinado atendente. Nesta última tela há, também, as opiniões digitadas pelos clientes, que estão ordenadas da mais recente para a mais antiga.
  
